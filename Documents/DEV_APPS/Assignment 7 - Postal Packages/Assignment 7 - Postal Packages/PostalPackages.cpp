@@ -1,5 +1,4 @@
 //******************************************************************
-// Assignment 7: Postal Packages
 // Programmer: Derek Lopez
 // Completed : 10/29/2018
 // Status    : Complete
